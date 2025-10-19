@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://www.lamppostsocial.com/", // Your WeWeb app preview link
+  domainSource: "https://www.lamppostsocial.com", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/eventpage/[^/]+",
